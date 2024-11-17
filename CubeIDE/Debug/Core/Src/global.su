@@ -1,0 +1,4 @@
+global.c:44:6:set_tmp_duration	4	static
+global.c:51:6:clear_all	8	static
+global.c:57:6:count_down_horizontal	4	static
+global.c:64:6:count_down_vertical	4	static
